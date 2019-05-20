@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820631713828",
+    "firebase_url": "https://mobilenetworkproject.firebaseio.com",
+    "project_id": "mobilenetworkproject",
+    "storage_bucket": "mobilenetworkproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820631713828:android:c7048e2553039bca",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.mobilenetworkproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820631713828-us0sp369uijik12m72cfa112f61g2m4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.mobilenetworkproject",
+            "certificate_hash": "4aa1dac0c36243e5abd74f469338d59bfb77b3ff"
+          }
+        },
+        {
+          "client_id": "820631713828-e680qm8b0c8torm6nh6spq0lgjir5s3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXsZ8V6_9Wmu2_K5JapDWeH3fpXaQkKJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820631713828-e680qm8b0c8torm6nh6spq0lgjir5s3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
